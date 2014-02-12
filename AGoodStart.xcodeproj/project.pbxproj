@@ -25,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BE4D66B918AC19A70046AAEE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		BE61BD4318AC17540020CCDA /* AGoodStart */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AGoodStart; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE61BD4618AC17540020CCDA /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BE61BD4818AC17540020CCDA /* AGoodStart.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = AGoodStart.1; sourceTree = "<group>"; };
@@ -61,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				BE61BD4618AC17540020CCDA /* main.c */,
+				BE4D66B918AC19A70046AAEE /* README.md */,
 				BE61BD4818AC17540020CCDA /* AGoodStart.1 */,
 			);
 			path = AGoodStart;
@@ -225,6 +227,7 @@
 				BE61BD4E18AC17540020CCDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
